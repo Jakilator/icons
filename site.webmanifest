@@ -1,14 +1,19 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "TechPub",
+    "short_name": "TechPub",
     "icons": [
         {
-            "src": "/android-chrome-144x144.png",
-            "sizes": "144x144",
+            "src": "https://raw.githubusercontent.com/Jakilator/icons/main/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/Jakilator/icons/main/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#8c2121",
+    "background_color": "#8c2121",
     "display": "standalone"
 }
